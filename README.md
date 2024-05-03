@@ -7,10 +7,10 @@ If you were sent this link, you were selected based on your resume and past expe
 The purpose of this challenge is to save time for both you and our interview team.
 
 ## Rules:
-- You must complete the challenge within 30 minutes.
+- You must complete the challenge within 45 minutes.
 - You may search online for help, but:
 - You may not use ChatGPT or any other AI tool.
-- If you use Github Copilot or other AI assistent, please disable it for this challenge.
+- If you use Github Copilot or other AI assistant, please disable it for this challenge.
 
 ## Instructions
 - Clone or download this project.
