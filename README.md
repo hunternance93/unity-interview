@@ -14,7 +14,7 @@ The purpose of this challenge is to save time for both you and our interview tea
 
 ## Instructions
 - Clone or download this project.
-- Open Scenes\InterviewScene in Unity.
+- Open `Scenes\InterviewScene` in Unity.
 - Implement the functionality in this video:
 
 [![Watch the video](https://img.youtube.com/vi/VOHMoMQnI_M/0.jpg)](https://youtu.be/VOHMoMQnI_M)
@@ -26,3 +26,7 @@ The purpose of this challenge is to save time for both you and our interview tea
 ## Submission
 - Ensure your code follows good programming practices.
 - Send your code file(s) to the interviewer.
+
+## Next steps
+- The interviewer will let you quickly know if you are selected for and in-person interview and send you a link to schedule.
+- Keep your solution for the in-person interview - you will be asked to add additional functionality during the interview.
