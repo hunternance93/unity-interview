@@ -17,7 +17,7 @@ The purpose of this challenge is to save time for both you and our interview tea
 - Open Scenes\InterviewScene in Unity.
 - Implement the functionality in this video:
 
-[![Watch the video](https://img.youtube.com/vi/VOHMoMQnI_M/default.jpg)](https://youtu.be/VOHMoMQnI_M)
+[![Watch the video](https://img.youtube.com/vi/VOHMoMQnI_M/0.jpg)](https://youtu.be/VOHMoMQnI_M)
 
 - If checker piece is clicked, it becomes yellow to indicate it is selected.
 - If a board position is clicked while the checker is selected, the checker moves to that board position with a smooth motion.
